@@ -1,0 +1,64 @@
+﻿
+html{
+   background: linear-gradient(#4eb0dc,#0377ab) no-repeat center center fixed; 
+}
+body {
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: transparent; 
+}
+
+
+/* Who r u screen start*/
+
+
+.center-div
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 170px;
+}
+
+
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.white{
+   color:#fff;
+}
+
+
+
+
+/* Who r u screen end*/
+
+
