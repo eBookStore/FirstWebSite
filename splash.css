@@ -1,0 +1,61 @@
+﻿
+/* splash screen css*/
+
+html{
+   background: linear-gradient(#4eb0dc,#0377ab) no-repeat center center fixed; 
+}
+
+
+body {
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: transparent; 
+}
+
+
+.img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.thought{
+    color:#fff;
+}
+
+
+.center-div
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 250px;
+  height: 170px;
+}
+
+/* splash screen css end*/
+
+
+
+
+
+/* Who r u screen start*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* Who r u screen start*/
+
+
